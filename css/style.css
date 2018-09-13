@@ -239,20 +239,20 @@ body {
 	h6 { font-size: 14px; }
 
 	::-moz-selection {
-		background-color: rgb(9,132,227);
+		background-color: rgb(55,105,150);
 		color: #fff;
 		text-shadow: none;
 	}
 
 	::selection {
-		background-color: rgb(9,132,227);
+		background-color: rgb(55,105,150);
 		color: #fff;
 		text-shadow: none;
 	}
 	
 	.highlight {
 		padding: 0 3px;
-		background-color: rgb(9,132,227);
+		background-color: rgb(55,105,150);
 		color: #fff;
 		text-shadow: none;	
 	}
@@ -745,7 +745,7 @@ body {
 	color: white;
 }
 #header.transparent   { background-color: transparent; }
-#header.header-shrink { background-color: rgba(9,132,227, 0.8);     }
+#header.header-shrink { background-color: rgba(29,66,115, 0.8);     }
 
 	.header-in {
 		margin: 0 auto;
@@ -865,7 +865,7 @@ body {
 			.navigation > ul > .current_page_item > a,
 			.navigation > ul > .current_page_parent > a,
 			.navigation > ul > .current_page_ancestor > a { 
-				background-color:rgb(9,132,227);
+				background-color:rgb(55,105,150);
 				color: #fff;
 			}
 
@@ -885,7 +885,6 @@ body {
 			.transparent .navigation > ul > .current_page_parent > a,
 			.transparent .navigation > ul > .current_page_ancestor > a { 
 				background-color: rgb(9,132,227);
-				background-color: rgba(0,194,169, .7);
 			}
 			
 			.header-shrink .navigation > ul > li:hover > a,
