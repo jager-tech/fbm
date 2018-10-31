@@ -753,6 +753,7 @@ div[data-dimension] {
   height: 40px;
 }
 .single_team {
+  height: 350px;
   border: 2px solid #ccc;
   border-radius: 5px;
   display: inline;
