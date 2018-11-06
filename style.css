@@ -193,10 +193,9 @@ img{
 	position: relative;
 }
 .slider_overlay {
-  background: none repeat scroll 0 0 #282116;
-    opacity: 0.5;
+  background-color: #2d3436;
   height: 100%;
-  opacity: 0.5;
+  opacity: 0.7;
   position: absolute;
   right: 0;
   top: 0;
@@ -1273,7 +1272,7 @@ textarea .form-control {
 	background-color: #636e72;
 }
 .extra_service h2 {
-	font-size: 40px;
+	font-size: 35px;
 }
 .extra_service h6 {
 	margin-bottom: 20px;
@@ -1284,4 +1283,72 @@ textarea .form-control {
 }
 .special-title {
   margin-bottom: 35px;
+}
+
+
+/*TABS*/
+@import url('https://fonts.googleapis.com/css?family=Open+Sans:400,600,700');
+@import url('https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css');
+
+.tab-section {
+  display: none;
+  padding: 20px 0 0;
+  border-top: 1px solid #323963;
+    height: 400px;
+}
+
+.tab-input {
+  display: none;
+}
+
+.tab-label {
+  display: inline-block;
+  margin: 0 0 -1px;
+  padding: 15px 25px;
+  font-weight: 600;
+  text-align: center;
+  color: #323963;
+  border: 1px solid transparent;
+}
+
+.tab-label:before {
+  font-family: fontawesome;
+  font-weight: normal;
+  margin-right: 10px;
+}
+
+
+.tab-label:hover {
+  color: #323963;
+  cursor: pointer;
+}
+
+.tab-input:checked + .tab-label {
+  color: #323963;
+  border: 1px solid #323963;
+  border-top: 2px solid #323963;
+  border-bottom: 1px solid #323963;
+}
+
+#tab1:checked ~ #content1,
+#tab2:checked ~ #content2,
+#tab3:checked ~ #content3,
+#tab4:checked ~ #content4 {
+  display: block;
+}
+
+@media screen and (max-width: 800px) {
+  .tab-label {
+    font-size: 0;
+  }
+  .tab-label:before {
+    margin: 0;
+    font-size: 18px;
+  }
+}
+
+@media screen and (max-width: 500px) {
+  .tab-label {
+    padding: 15px;
+  }
 }
