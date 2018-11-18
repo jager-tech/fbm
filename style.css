@@ -84,7 +84,7 @@ img{
   position:absolute;
   left:50%; /* centers the loading animation horizontally one the screen */
   top:50%; /* centers the loading animation vertically one the screen */
-  background-image:url(img/status.GIF); /* path to your loading animation */
+  background-image:url(img/status.gif); /* path to your loading animation */
   background-repeat:no-repeat;
   background-position:center;
   margin:-100px 0 0 -100px; /* is width and height divided by two */
@@ -163,8 +163,8 @@ img{
 	font-weight: bolder;
 }
 .navbar-brand .logo {
-  width: 100px;
-  margin-top: 10px;
+  width: 130px;
+margin-top: 5px;
 }
 .navbar-default .navbar-nav > .active > a, .navbar-default .navbar-nav > .active > a:hover, .navbar-default .navbar-nav > .active > a:focus {
   background-color: transparent;
@@ -274,7 +274,9 @@ img{
 	-webkit-transform-origin: 100% 0%;
 	transform-origin: 100% 0%;
 }
-
+.back_img {
+  top: -350px;
+}
 .slides-navigation h3 {
 	position: absolute;
 	top: 50%;
@@ -347,8 +349,8 @@ img{
 }
 .slider_caption > h2 {
   color: #ffffff;
-  font-size: 90px;
-  font-weight: 300;
+  font-size: 100px;
+  font-weight: 350;
   line-height: 86px;
   margin: 0 auto 30px;
   padding-bottom: 8px;
@@ -817,9 +819,10 @@ div[data-dimension] {
 /*--------------------*/
 
 #contact{
-  background-image: url("img/contact_us.jpg");
+  background-image: url("img/contact.jpg");
   background-repeat: no-repeat;
   background-size: cover;
+  background-position-y: -200px;
 	display: inline;
   color: white;
 	float: left;
@@ -972,7 +975,7 @@ textarea .form-control {
 }
 
 #contactFeature{
-	background-image: url("img/callus_email.jpg");
+	background-color: #2980b9;
   background-attachment: fixed;
   background-repeat: no-repeat;
     background-position-y: 100px;
@@ -1280,6 +1283,7 @@ textarea .form-control {
 }
 .extra_service p {
 	color: white;
+  font-size: 20px;
 }
 .special-title {
   margin-bottom: 35px;
