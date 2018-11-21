@@ -1,3 +1,5 @@
+
+
 <section id="content3" class="tab-section">
     <div class="container-fluid">
     <div class="row">
@@ -88,4 +90,27 @@
       </div>
 </div>
 </div>
+</section>
+
+
+
+<section id="content2" class="tab-section">
+     <div class="container-fluid">
+     <div class="row">
+	       <div class="col-xs-12 col-sm-6 col-md-4 col-lg-4 col-xl-4">
+            <div class="card">
+              <div class="card-block block-9">
+                <h3 class="card-title">FIRMAS CORRESPONSALES</h3>
+                <a class="fancybox" class="read-more" rel="group3" href="#data_12">Ver Más<i class="fa fa-angle-double-right ml-2"></i></a>
+              </div>
+            </div>
+            <div style="display:none">
+              <div class="extra_service" id="data_12">
+                <h2 class="extra-title">FIRMAS CORRESPONSALES</h2>
+                <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis ultrices orci orci, eu fermentum neque blandit sit amet. Nullam vel sapien quis urna posuere maximus sit amet sit amet quam. Nam sed mollis sapien. Maecenas ut orci quis tortor imperdiet tempus feugiat vitae eros.</p>
+              </div>
+            </div>
+          </div>
+	</div>
+	 </div>
 </section>
