@@ -27,7 +27,7 @@ body {
   overflow-x: hidden !important;
   font-family: 'Alegreya Sans', 'Open Sans', sans-serif;
 	font-weight: 100;
-	font-size: 24px;
+	font-size: 18px;
 	line-height: 1.29;
 	color: #2f2f2f;
 	letter-spacing: 1px;
@@ -45,7 +45,7 @@ ul{
 
 a{
   text-decoration: none;
-  color: white;
+  color: #244166;
 
 }
 a:focus{
@@ -349,7 +349,7 @@ margin-top: 5px;
 }
 .slider_caption > h2 {
   color: #ffffff;
-  font-size: 100px;
+  font-size: 80px;
   font-weight: 350;
   line-height: 86px;
   margin: 0 auto 30px;
@@ -1311,7 +1311,7 @@ textarea .form-control {
   padding: 15px 25px;
   font-weight: 600;
   text-align: center;
-  color: #323963;
+  color: #999;
   border: 1px solid transparent;
 }
 
@@ -1328,10 +1328,11 @@ textarea .form-control {
 }
 
 .tab-input:checked + .tab-label {
-  color: #323963;
+  color: white;
   border: 1px solid #323963;
   border-top: 2px solid #323963;
   border-bottom: 1px solid #323963;
+  background-color: rgba(255,255,255,.15);
 }
 
 #tab1:checked ~ #content1,

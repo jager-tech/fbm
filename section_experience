@@ -1,0 +1,91 @@
+<section id="content3" class="tab-section">
+    <div class="container-fluid">
+    <div class="row">
+      <div class="col-xs-12 col-sm-12 col-md-12 col-lg-12 col-xl-12">
+        <div class="card">
+          <div class="card-block block-3">
+            <h3 class="card-title">DR. ENRIQUE FALCO IRIONDO</h3>
+            <a class="fancybox" class="read-more" rel="group2" href="#cv_0">Ver Experiencia<i class="fa fa-angle-double-right ml-2"></i></a>
+          </div>
+        </div>
+        <div style="display:none">
+          <div class="extra_service" id="cv_0">
+            <h2 class="extra-title">DR. ENRIQUE FALCO IRIONDO</h2>
+            <p>Doctor en Derecho y Ciencias Sociales, Magíster en Derecho Comercial, Especialista en Derecho Comercial, Profesor de Derecho Comercial. Facultad de Derecho, Universidad de la República Oriental del Uruguay. </p>
+             <p> Licenciado en Sistemas Navales. Escuela Naval de la República Oriental del Uruguay.</p>
+             <p> Profesor de Derecho de los Títulos Valores y Concursal. Facultad de Derecho, Universidad CLAEH.</p>
+          </div>
+        </div>
+      </div>
+        <div class="col-xs-12 col-sm-12 col-md-12 col-lg-12 col-xl-12">
+        <div class="card">
+          <div class="card-block block-3">
+            <h3 class="card-title">DR. DANTE BARRIOS</h3>
+            <a class="fancybox" class="read-more" rel="group2" href="#cv_1">Ver Experiencia<i class="fa fa-angle-double-right ml-2"></i></a>
+          </div>
+        </div>
+        <div style="display:none">
+          <div class="extra_service" id="cv_1">
+            <h2 class="extra-title">DR. DANTE BARRIOS</h2>
+            <p>Doctor en Derecho y Ciencias Sociales de la Facultad de Derecho de la Universidad de la República.</p>
+              <p>Licenciado en Sistemas Navales. </p>
+               <p> Actuación docente en la Escuela Naval, Escuela de Guerra Naval y Facultad de Derecho de la Universidad de la República.</p>
+              <p> Jefe de la Asesoría Letrada de la Armada Nacional. </p>
+               <p>  Consultor por el Banco Interamericano de Desarrollo. </p>
+               <p>  Asesor Letrado del Ministro de Industria y Energía. </p>
+               <p>  Delegado Uruguayo ante la Conferencia para la Aprobación de un Convenio Internacional sobre Embargo Preventivo de Buques. Ginebra.</p>
+          </div>
+        </div>
+      </div>
+        <div class="col-xs-12 col-sm-12 col-md-12 col-lg-12 col-xl-12">
+        <div class="card">
+          <div class="card-block block-3">
+            <h3 class="card-title">DR. ANDRES MARIÑO</h3>
+            <a class="fancybox" class="read-more" rel="group2" href="#cv_2">Ver Experiencia<i class="fa fa-angle-double-right ml-2"></i></a>
+          </div>
+        </div>
+        <div style="display:none">
+          <div class="extra_service" id="cv_2">
+            <h2 class="extra-title">DR. ANDRES MARIÑO</h2>
+            <p>Abogado. Doctor en Derecho (Summa Cum Laude) y Magister en Derecho (Summa Cum Laude) por la Universidad Autónoma de Barcelona.</p>
+             <p>  Profesor de Derecho Civil de la Facultad de Derecho, Universidad de la República. Árbitro de la CCI.</p>
+          </div>
+        </div>
+      </div>
+        <div class="col-xs-12 col-sm-12 col-md-12 col-lg-12 col-xl-12">
+        <div class="card">
+          <div class="card-block block-3">
+            <h3 class="card-title">DRA. MERCEDES ARAMENDIA FALCO</h3>
+            <a class="fancybox" class="read-more" rel="group2" href="#cv_4">Ver Experiencia<i class="fa fa-angle-double-right ml-2"></i></a>
+          </div>
+        </div>
+        <div style="display:none">
+          <div class="extra_service" id="cv_4">
+            <h2 class="extra-title">DRA. MERCEDES ARAMENDIA FALCO</h2>
+            <p>Abogada en Uruguay y en España.</p>
+              <p>  Máster en Derecho Administrativo Económico (Universidad de Montevideo).</p>
+                 <p>MBA y Máster en Administración, Dirección y Organización de Empresas (EAE Business School y Universidad Camilo José Cela, Madrid, España).</p>
+              <p>Título de Posgrado de Especialización en Derechos Fundamentales (Universidad de Castilla – La Mancha, España).</p>
+               <p>Profesora en el Máster de Derecho de la Universidad de Montevideo.</p>
+          </div>
+        </div>
+      </div>
+        <div class="col-xs-12 col-sm-12 col-md-12 col-lg-12 col-xl-12">
+        <div class="card">
+          <div class="card-block block-3">
+            <h3 class="card-title">DRA. ESC. MANUELA PRANDI</h3>
+            <a class="fancybox" class="read-more" rel="group2" href="#cv_3">Ver Experiencia<i class="fa fa-angle-double-right ml-2"></i></a>
+          </div>
+        </div>
+        <div style="display:none">
+          <div class="extra_service" id="cv_3">
+            <h2 class="extra-title">DRA. ESC. MANUELA PRANDI</h2>
+            <p>Abogada - Escribana. </p>
+             <p> Aspirante a Profesor Adscripto de Derecho Privado II y III, Facultad de Derecho, Udelar.</p>
+             <p>  Maestrando en la Maestría en Derecho, orientación Derecho de Daños, Escuela de Posgrado, Facultad de Derecho, Udelar.</p>
+          </div>
+        </div>
+      </div>
+</div>
+</div>
+</section>
