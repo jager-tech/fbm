@@ -148,7 +148,7 @@ img{
   -webkit-transition: all 0.5s ease 0s;
   -o-transition: all 0.5s ease 0s;
   transition: all 0.5s ease 0s;
-  min-height: 80px;
+  min-height: 105px;
 }
 #navbar{
   overflow-x: hidden;
@@ -163,7 +163,7 @@ img{
 	font-weight: bolder;
 }
 .navbar-brand .logo {
-  width: 110px;
+  width: 150px;
 margin-top: 5px;
 }
 .navbar-default .navbar-nav > .active > a, .navbar-default .navbar-nav > .active > a:hover, .navbar-default .navbar-nav > .active > a:focus {
