@@ -1,0 +1,25 @@
+{
+  "LANG_ES": "Spanish",
+  "LANG_EN": "English",
+  "MENU_INICIO": "Home",
+  "MENU_SERVICIOS": "Services",
+  "MENU_EXPERIENCIA": "About us",
+  "MENU_CONTACTO": "Contact",
+  "MAIN_MSG_1": "LAWYERS",
+
+
+  "SERVICES_TEXT_1": "OUR SERVICES",
+  "SERVICES_TEXT_2": "We are experts, working in a team, with a multidisciplinary approach, with the main aim of achieving the success of our clients through agile, innovative and integrative solutions.",
+
+  "CONTACT_TEXT1": "Contact",
+  "CONTACT_TEXT2": "To learn more about our services, please contact:",
+  "CONTACT_ADDRESS1": "Some Place",
+  "CONTACT_ADDRESS2": "Bv Artigas 76",
+  "CONTACT_ADDRESS3": "AP 202",
+  "CONTACT_ADDRESS4": "CP 11300",
+  "CONTACT_ADDRESS5": "Montevideo",
+  "CONTACT_ADDRESS6": "Uruguay",
+  "CONTACT_ADDRESS7": "Tel: (+598) 94 222 333",
+
+  "FOOTER": "Copyright © 2018 Mercedes Aramendía. All Rights Reserved"
+}
