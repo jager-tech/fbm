@@ -1156,7 +1156,7 @@ textarea .form-control {
 	.blog_slider .slick-prev {left: 86.5%;}
 	.og-close {z-index: 999;}
 	#about {padding: 50px 0;}
-	#service {padding: 50px 0 50px;}
+	#service {padding: 50px 0 50px; height: 1100px;}
 	#works {padding: 0 0 50px;}
 	#team {padding: 50px 0;}
 	#pricing {padding: 50px 0;}
