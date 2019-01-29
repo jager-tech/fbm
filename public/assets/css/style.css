@@ -1369,4 +1369,10 @@ textarea .form-control {
     padding: 15px;
     width: auto;
   }
+  .extra_service h2 {
+    font-size: 20px;
+  }
+  .extra_service p {
+    font-size: 13px;
+  }
 }
