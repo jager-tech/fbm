@@ -1365,4 +1365,8 @@ textarea .form-control {
     width: 100px;
     margin-top: 20px;
   }
+  .extra_service {
+    padding: 15px;
+    width: auto;
+  }
 }
