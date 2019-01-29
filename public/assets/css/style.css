@@ -1176,7 +1176,7 @@ textarea .form-control {
 @media(max-width:480px ){
 	#slides {height: 320px !important;}
 	.slider_caption {margin-top: 20%;}
-	.slider_caption > h2 { font-size: 20px;line-height: 22px;margin-bottom: 0px;}
+	.slider_caption > h2 { font-size: 20px;line-height: 22px;margin-bottom: 0px; margin-top: 180px;}
 	.slider_caption > p {font-size: 14px;}
 	.slider_caption > a { font-size: 15px; margin-top: 20px;  padding: 8px 10px;}
 	.wagwep-container ul#portfolio-filter li {width: auto;}
@@ -1355,5 +1355,12 @@ textarea .form-control {
 @media screen and (max-width: 500px) {
   .tab-label {
     padding: 15px;
+  }
+  #contact {
+    background-size: auto;
+  }
+  .navbar-brand .logo {
+    width: 100px;
+    margin-top: 20px;
   }
 }
