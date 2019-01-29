@@ -1354,7 +1354,9 @@ textarea .form-control {
 
 @media screen and (max-width: 500px) {
   .tab-label {
-    padding: 15px;
+    padding: 10px;
+    width: 150px;
+    font-size: 15px;
   }
   #contact {
     background-size: auto;
